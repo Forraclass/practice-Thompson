@@ -25,7 +25,7 @@ The sub genre **city-pop** does not have many main stream creators nowadays and 
 >Hope you are happy with the ending<br>
 >It’s exactly as it seems<br>
 >
-~*James Shaffer*
+>~*James Shaffer*
 
 >
 >Life is just a bowl of cherries<br>
@@ -38,6 +38,37 @@ The sub genre **city-pop** does not have many main stream creators nowadays and 
 >The sweet things in life, to you were just loaned<br>
 >So how can you lose what you've never owned?<br>
 >
-~*Rudy Vallee*
+>~*Rudy Vallee*
+
+***
+
+## Code Segment
+
+The following code segment allows for the use of different colors in different contexts in dart. The first chunk allows the console messages Good, Waring, and Info to take on the colors green, red, and blue respectively. The other chunks operate similarly, with the second chunk changing the colors of the programs output and the third the color of the returned strings.
+
+```
+import 'dart:io';
+
+import 'package:colorize/colorize.dart';
+
+class Messages {
+  // Prints
+  static void printGood(String message) => print(Colorize(message).green());
+  static void printWarning(String message) => print(Colorize(message).red());
+  static void printInfo(String message) => print(Colorize(message).blue());
+
+  // Stdouts
+  static void outGood(String message) => stdout.write(Colorize(message).green());
+  static void outWarning(String message) => stdout.write(Colorize(message).red());
+  static void outInfo(String message) => stdout.write(Colorize(message).blue());
+
+  // Returned colored strings
+  static String good(String message) => Colorize(message).green().toString();
+  static String warning(String message) => Colorize(message).red().toString();
+  static String info(String message) => Colorize(message).blue().toString();
+}
+```
+
+<https://pieces.app/collections/dart>
 
 [MyLocation](https://github.com/Forraclass/practice-Thompson/blob/main/MyLocation.md)
