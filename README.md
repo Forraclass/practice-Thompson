@@ -17,7 +17,7 @@ The sub genre **city-pop** does not have many main stream creators nowadays and 
 
 ***
 
-## Lyric Qoutes
+## Lyric Quotes
 
 >
 >fare thee well <br>
