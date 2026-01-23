@@ -20,23 +20,23 @@ The sub genre **city-pop** does not have many main stream creators nowadays and 
 ## Lyric Qoutes
 
 >
->fare thee well
->It’s been a hell of dream
->Hope you are happy with the ending
->It’s exactly as it seems
+>fare thee well <br>
+>It’s been a hell of dream<br>
+>Hope you are happy with the ending<br>
+>It’s exactly as it seems<br>
 >
 ~*James Shaffer*
 
 >
->Life is just a bowl of cherries
->Don't take it serious, it's too mysterious
->You work, you save, you worry so
->But you can't take your dough when you go, go, go
-
->So keep repeating it's the berries
->The strongest oak must fall
->The sweet things in life, to you were just loaned
->So how can you lose what you've never owned?
+>Life is just a bowl of cherries<br>
+>Don't take it serious, it's too mysterious<br>
+>You work, you save, you worry so<br>
+>But you can't take your dough when you go, go, go<br>
+>
+>So keep repeating it's the berries<br>
+>The strongest oak must fall<br>
+>The sweet things in life, to you were just loaned<br>
+>So how can you lose what you've never owned?<br>
 >
 ~*Rudy Vallee*
 
